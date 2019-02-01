@@ -1,15 +1,13 @@
 # Currency Converter App
 
-Search for your favorite band and see when and where they will be performing.
-Search for any song on Spotify and get a link directly to that song.
-Search for any movie and get specific details about it.
+This app using the Fixer.io API to convert any currency to today's market value. The Restcountries.eu API was used to list all countries that use the currency needing to be converted.
 
 All this is powered by Node.js.
 
 Enjoy and I hope you like it.
 
 # Link to video demonstration
-[![Watch the video](https://github.com/leronj23/currency-convert-app/blob/master/currency-convert-app-screenshot.JPG)](https://youtu.be/QGvNtAQLtSc)
+[![Watch the video](https://github.com/leronj23/currency-convert-app/blob/master/currency-convert-app-screenshot.JPG)](https://youtu.be/G1qU75YajwY)
 
 # Technology used
 * Javascript
@@ -21,4 +19,4 @@ Enjoy and I hope you like it.
 # Learning points
 * Apply ajax call to get API data
 * Use javascript along with  to add or change the desired behavior of web page.
-* A Spotify API, OMDB API, and a Band In Town API is needed for this app to work.
+* Fixer.io API and Restcountries.eu API is needed for this app to work.
