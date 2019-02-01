@@ -1,6 +1,6 @@
 # Currency Converter App
 
-This app using the Fixer.io API to convert any currency to today's market value. The Restcountries.eu API was used to list all countries that use the currency needing to be converted.
+This app uses the Fixer.io API to convert any currency from one country to another for today's market value. The Restcountries.eu API was used to list all the countries that use the converted currency.
 
 All this is powered by Node.js.
 
