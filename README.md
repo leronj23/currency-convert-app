@@ -7,7 +7,7 @@ All this is powered by Node.js.
 Enjoy and I hope you like it.
 
 # Link to video demonstration
-[![Watch the video](https://github.com/leronj23/currency-convert-app/blob/master/currency-convert-app-screenshot.JPG)](https://youtu.be/G1qU75YajwY)
+[![Watch the video](https://github.com/leronj23/currency-convert-app/blob/master/screenshot/currency-convert-app-screenshot.JPG)](https://youtu.be/G1qU75YajwY)
 
 # Technology used
 * Javascript
